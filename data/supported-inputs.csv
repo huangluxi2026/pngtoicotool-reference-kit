@@ -1,0 +1,5 @@
+format,mime_type,processing_note
+PNG,image/png,Read in the browser and converted locally
+JPG,image/jpeg,Read in the browser and converted locally
+GIF,image/gif,Read in the browser and converted locally
+WEBP,image/webp,Read in the browser and converted locally
