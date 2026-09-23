@@ -1,0 +1,7 @@
+size_px,common_context,source_note
+16,browser tab or compact interface,Shown in the tool size picker
+32,standard tab or desktop icon,Shown in the tool size picker
+48,file and shortcut view,Shown in the tool size picker
+64,larger icon display,Shown in the tool size picker
+128,high resolution icon view,Shown in the tool size picker
+256,large desktop icon layer,Shown in the tool size picker
